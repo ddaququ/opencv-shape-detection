@@ -1,0 +1,8 @@
+﻿  functions.cpp
+C:\Users\USER\source\repos\OpenCV\functions.cpp(55,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\source\repos\OpenCV\functions.cpp(60,20): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  main.cpp
+  functions.h
+  正在產生程式碼...
+x64\Debug\functions.obj : warning LNK4042: 指定物件超過一次，已忽略多餘的部分
+  OpenCV.vcxproj -> C:\Users\USER\source\repos\OpenCV\x64\Debug\OpenCV.exe
